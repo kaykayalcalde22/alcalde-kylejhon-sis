@@ -1,0 +1,28 @@
+
+h1 {
+    color: pink;
+   }
+   label {
+     color: pink;
+   }
+   #userLabel {
+    font-size : 20px;
+   background-color: blue;
+   }
+   #passLabel {
+    font-size: 20 ;
+    background-color: blue;
+   }
+    buttonlable {
+       background-color: pink;
+   }
+    .textDesign {
+    font-style: initial;
+    color:pink
+   }
+   button {
+   color: aqua ;    
+   }
+  a {
+   color:aqua
+  }
